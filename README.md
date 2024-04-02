@@ -28,7 +28,7 @@ Here to demonstrate my applied knowledge as a Student at The College of Western 
   
 # Project Tasks:
 
-## Projects : Mark when complete
+## Project Completion : Mark when complete
 * [ ] Calender/Contacts/Events/Notes Mobile Applciation
 * [ ] Movie Streamer Web Applcation
 * [ ] Developer Profile
@@ -39,7 +39,8 @@ Here to demonstrate my applied knowledge as a Student at The College of Western 
 
 
 ## My Todos:
-* [ ] Update Developer Profile
+* [ ] Get all project directories uploaded to this repository.
+* [ ] Update Developer Profile.
 * [ ] Gather Design & Plan Documents
   * [ ] CCEN Mobile App
   * [ ] Deveoper Profile
